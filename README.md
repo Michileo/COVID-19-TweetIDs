@@ -1,6 +1,5 @@
 # COVID-19-TweetIDs
  
- 
 The repository contains an ongoing collection of tweets IDs associated with the novel coronavirus COVID-19 (SARS-CoV-2), which commenced on January 28, 2020. We used the Twitter’s search API to gather historical Tweets from the preceding 7 days, leading to the first Tweets in our dataset dating back to January 21, 2020. We leveraged Twitter’s streaming API to follow specified accounts and also collect in real-time tweets that mention specific keywords. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. 
 
 The associated paper to this repository can be found here: [Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set](https://publichealth.jmir.org/2020/2/e19273/)
@@ -72,22 +71,22 @@ BibTeX:
 }
 ```
 
-# Statistics Summary (v2.88)
-Number of Tweets : **2,368,519,063**
+# Statistics Summary (v2.89)
+Number of Tweets : **2,379,024,026**
 
 Language breakdown of top 10 most prevalent languages :
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 1,509,244,530    | 63.72%             |
-| Spanish         | es      | 275,946,975      | 11.65%             |
-| Portuguese      | pt      | 95,867,045       | 4.05%              |
-| French          | fr      | 82,661,391       | 3.49%              |
-| Undefined       | und     | 70,222,541       | 2.96%              |
-| Indonesian      | in      | 69,497,352       | 2.93%              |
-| German          | de      | 49,700,092       | 2.1%               |
-| Thai            | th      | 33,958,198       | 1.43%              |
-| Japanese        | ja      | 31,946,715       | 1.35%              |
-| Italian         | it      | 26,291,299       | 1.11%              |
+| English         | en      | 1,516,323,151    | 63.74%             |
+| Spanish         | es      | 276,770,942      | 11.63%             |
+| Portuguese      | pt      | 96,150,179       | 4.04%              |
+| French          | fr      | 83,170,496       | 3.5%               |
+| Undefined       | und     | 70,525,268       | 2.96%              |
+| Indonesian      | in      | 69,722,278       | 2.93%              |
+| German          | de      | 50,032,940       | 2.1%               |
+| Thai            | th      | 34,057,302       | 1.43%              |
+| Japanese        | ja      | 32,124,469       | 1.35%              |
+| Italian         | it      | 26,440,922       | 1.11%              |
 
 # Known Gaps
 | Date          | Time              |
