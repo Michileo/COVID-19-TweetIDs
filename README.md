@@ -18,7 +18,6 @@ We have recently migrated our data collection to AWS. Because of our recent shif
 
 ### Other Notes
 * We will be continuously maintaining this database for the foreseeable future, and will be uploading new data on a weekly basis.  
- **Update: During the summer, data will be uploaded on a bi-weekly basis**
 * There may be a few hours of missing data due to technical difficulties. We have done our best to recover as many Tweets from those time frames by using Twitter’s search API. 
 * We will keep a running summary of basic statistics as we upload data in each new release. 
 * The file keywords.txt and accounts.txt contains the updated keywords and accounts respectively that we tracked in our data collection. Each keyword and account will be followed by the date we began tracking them, and date we removed them (if the keyword or account has been removed) from our tracking list. 
@@ -72,22 +71,22 @@ BibTeX:
 }
 ```
 
-# Statistics Summary (v2.100)
-Number of Tweets : **2,535,301,242**
+# Statistics Summary (v2.101)
+Number of Tweets : **2,604,429,273**
 
 Language breakdown of top 15 most prevalent languages :
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 1,621,697,412    | 63.96%             |
-| Spanish         | es      | 289,295,548      | 11.41%             |
-| Portuguese      | pt      | 99,823,836       | 3.94%              |
-| French          | fr      | 91,019,573       | 3.59%              |
-| Undefined       | und     | 74,644,957       | 2.94%              |
-| Indonesian      | in      | 71,969,845       | 2.84%              |
-| German          | de      | 56,040,996       | 2.21%              |
-| Thai            | th      | 36,114,750       | 1.42%              |
-| Japanese        | ja      | 34,954,934       | 1.38%              |
-| Italian         | it      | 28,548,846       | 1.13%              |
+| English         | en      | 1,667,013,053    | 64.01%             |
+| Spanish         | es      | 295,395,806      | 11.34%             |
+| Portuguese      | pt      | 101,393,782      | 3.89%              |
+| French          | fr      | 94,792,160       | 3.64%              |
+| Undefined       | und     | 74,944,569       | 2.88%              |
+| Indonesian      | in      | 72,761,915       | 2.79%              |
+| German          | de      | 58,829,135       | 2.26%              |
+| Thai            | th      | 36,875,513       | 1.42%              |
+| Japanese        | ja      | 36,871,265       | 1.42%              |
+| Italian         | it      | 29,619,287       | 1.14%              |
 
 # Known Gaps
 | Date          | Time              |
