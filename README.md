@@ -71,22 +71,22 @@ BibTeX:
 }
 ```
 
-# Statistics Summary (v2.101)
-Number of Tweets : **2,604,429,273**
+# Statistics Summary (v2.102) 
+Number of Tweets : **2,637,008,139**
 
-Language breakdown of top 15 most prevalent languages :
+Language breakdown of top 15 most prevalent languages : 
 | Language        | ISO     | No. tweets       | % total Tweets     |
 |-------------    |-----    |------------      |----------------    |
-| English         | en      | 1,667,013,053    | 64.01%             |
-| Spanish         | es      | 295,395,806      | 11.34%             |
-| Portuguese      | pt      | 101,393,782      | 3.89%              |
-| French          | fr      | 94,792,160       | 3.64%              |
-| Undefined       | und     | 74,944,569       | 2.88%              |
-| Indonesian      | in      | 72,761,915       | 2.79%              |
-| German          | de      | 58,829,135       | 2.26%              |
-| Thai            | th      | 36,875,513       | 1.42%              |
-| Japanese        | ja      | 36,871,265       | 1.42%              |
-| Italian         | it      | 29,619,287       | 1.14%              |
+| English         | en      | 1,688,555,276    | 64.03%             |
+| Spanish         | es      | 298,247,222      | 11.31%             |
+| Portuguese      | pt      | 102,367,254      | 3.88%              |
+| French          | fr      | 96,333,994       | 3.65%              |
+| Undefined       | und     | 75,081,254       | 2.85%              |
+| Indonesian      | in      | 73,039,656       | 2.77%              |
+| German          | de      | 60,148,373       | 2.28%              |
+| Japanese        | ja      | 37,791,171       | 1.43%              |
+| Thai            | th      | 37,202,896       | 1.41%              |
+| Italian         | it      | 30,084,544       | 1.14%              |
 
 # Known Gaps
 | Date          | Time              |
